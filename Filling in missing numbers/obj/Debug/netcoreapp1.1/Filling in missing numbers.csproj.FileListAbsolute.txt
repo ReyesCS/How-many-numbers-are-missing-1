@@ -1,0 +1,9 @@
+c:\users\shonen1561\documents\visual studio 2017\Projects\Filling in missing numbers\Filling in missing numbers\bin\Debug\netcoreapp1.1\Filling in missing numbers.deps.json
+c:\users\shonen1561\documents\visual studio 2017\Projects\Filling in missing numbers\Filling in missing numbers\bin\Debug\netcoreapp1.1\Filling in missing numbers.runtimeconfig.json
+c:\users\shonen1561\documents\visual studio 2017\Projects\Filling in missing numbers\Filling in missing numbers\bin\Debug\netcoreapp1.1\Filling in missing numbers.runtimeconfig.dev.json
+c:\users\shonen1561\documents\visual studio 2017\Projects\Filling in missing numbers\Filling in missing numbers\bin\Debug\netcoreapp1.1\Filling in missing numbers.dll
+c:\users\shonen1561\documents\visual studio 2017\Projects\Filling in missing numbers\Filling in missing numbers\bin\Debug\netcoreapp1.1\Filling in missing numbers.pdb
+c:\users\shonen1561\documents\visual studio 2017\Projects\Filling in missing numbers\Filling in missing numbers\obj\Debug\netcoreapp1.1\Filling in missing numbers.csprojResolveAssemblyReference.cache
+c:\users\shonen1561\documents\visual studio 2017\Projects\Filling in missing numbers\Filling in missing numbers\obj\Debug\netcoreapp1.1\Filling in missing numbers.AssemblyInfo.cs
+c:\users\shonen1561\documents\visual studio 2017\Projects\Filling in missing numbers\Filling in missing numbers\obj\Debug\netcoreapp1.1\Filling in missing numbers.dll
+c:\users\shonen1561\documents\visual studio 2017\Projects\Filling in missing numbers\Filling in missing numbers\obj\Debug\netcoreapp1.1\Filling in missing numbers.pdb
